@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-09-26T08:00:00Z",
+  "categories": {
+    "bustine": { "label": "Bustine", "markup_eur": 0.70 }
+  },
+  "items": [
+    { "tcg": "pokemon", "expansion": "Scarlatto e Violetto - Evoluzioni Stellari", "category": "bustine", "price_per_pack_eur": 4.20 },
+    { "tcg": "pokemon", "expansion": "Scarlatto e Violetto - Fusione Radiosa", "category": "bustine", "price_per_pack_eur": 3.95 },
+    { "tcg": "pokemon", "expansion": "Storm Emerald", "category": "bustine", "price_per_pack_eur": 2.15 },
+    { "tcg": "pokemon", "expansion": "Corona Sbrilluccicante", "category": "bustine", "price_per_pack_eur": 3.10 },
+    { "tcg": "pokemon", "expansion": "Destino di Paldea", "category": "bustine", "price_per_pack_eur": 4.60 },
+    { "tcg": "pokemon", "expansion": "151", "category": "bustine", "price_per_pack_eur": 5.80 },
+    { "tcg": "one_piece", "expansion": "OP-17", "category": "bustine", "price_per_pack_eur": 3.40 },
+    { "tcg": "one_piece", "expansion": "OP-16 - Anime Ardenti", "category": "bustine", "price_per_pack_eur": 3.20 },
+    { "tcg": "one_piece", "expansion": "OP-15 - Doppia Caccia", "category": "bustine", "price_per_pack_eur": 3.05 },
+    { "tcg": "one_piece", "expansion": "OP-14 - Nuovo Impero", "category": "bustine", "price_per_pack_eur": 2.90 },
+    { "tcg": "one_piece", "expansion": "EB-02 - Anniversary Collection", "category": "bustine", "price_per_pack_eur": 4.10 },
+    { "tcg": "dragonball", "expansion": "Fusion World - FB-04", "category": "bustine", "price_per_pack_eur": 3.75 },
+    { "tcg": "dragonball", "expansion": "Fusion World - FB-03", "category": "bustine", "price_per_pack_eur": 3.50 },
+    { "tcg": "dragonball", "expansion": "Fusion World - FB-02", "category": "bustine", "price_per_pack_eur": 3.30 },
+    { "tcg": "dragonball", "expansion": "Super Card Game - Vermillion Bloodline", "category": "bustine", "price_per_pack_eur": 2.60 },
+    { "tcg": "dragonball", "expansion": "Super Card Game - Zenkai Series 07", "category": "bustine", "price_per_pack_eur": 2.75 }
+  ]
+}

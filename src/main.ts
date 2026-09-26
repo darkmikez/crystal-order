@@ -83,9 +83,9 @@ function mountShell(): void {
     <div class="page">
       <header class="site-header">
         <div class="brand">
-          <span class="brand-mark">CC</span>
+          <span class="brand-mark">PP</span>
           <div>
-            <p class="brand-name">Crystal Company</p>
+            <p class="brand-name">Pik-A Pack</p>
             <p class="brand-tag">Bustine Pokémon · One Piece · Dragon Ball all'ingrosso</p>
           </div>
         </div>
@@ -123,7 +123,7 @@ function mountShell(): void {
       <div class="toast" id="toast" hidden></div>
 
       <footer class="site-footer">
-        <p>© ${new Date().getFullYear()} Crystal Company — Ordini all'ingrosso di bustine TCG.</p>
+        <p>© ${new Date().getFullYear()} Pik-A Pack — Ordini all'ingrosso di bustine TCG.</p>
         <p class="muted">Nessun account richiesto. Il catalogo viene aggiornato periodicamente.</p>
       </footer>
     </div>

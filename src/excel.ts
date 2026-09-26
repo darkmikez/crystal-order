@@ -24,7 +24,7 @@ type XlsxModule = typeof import("xlsx");
  */
 function buildOrderWorkbook(XLSX: XlsxModule, lines: CartLine[], info: CheckoutInfo): ReturnType<XlsxModule["utils"]["book_new"]> {
   const headerRows: (string | number)[][] = [
-    ["Crystal Company - Ordine"],
+    ["Pik-A Pack - Ordine"],
     [],
     ["Azienda", info.companyName],
     ["E-mail", info.email],
@@ -71,7 +71,7 @@ function buildOrderWorkbook(XLSX: XlsxModule, lines: CartLine[], info: CheckoutI
 
 export function orderFilename(orderDate: string): string {
   const date = orderDate || new Date().toISOString().slice(0, 10);
-  return `ordine_crystal_${date}.xlsx`;
+  return `ordine_pikapack_${date}.xlsx`;
 }
 
 /** Generates the workbook and triggers a real client-side file download. */

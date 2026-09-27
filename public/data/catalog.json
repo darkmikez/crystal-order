@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T04:02:10.299805Z",
+  "generated_at": "2026-09-27T10:07:02.852254Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -9,13 +9,19 @@
   "items": [
     {
       "tcg": "pokemon",
+      "expansion": "Abyss Eye",
+      "category": "bustine",
+      "price_per_pack_eur": 18.44
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "MEGA b",
       "category": "bustine",
       "price_per_pack_eur": 18.44
     },
     {
       "tcg": "pokemon",
-      "expansion": "Abyss Eye",
+      "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.44
     },
@@ -24,12 +30,6 @@
       "expansion": "OP-16",
       "category": "bustine",
       "price_per_pack_eur": 18.48
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "MEGA s",
-      "category": "bustine",
-      "price_per_pack_eur": 18.44
     },
     {
       "tcg": "one_piece",
@@ -150,6 +150,12 @@
       "expansion": "CYBER JUDGE",
       "category": "bustine",
       "price_per_pack_eur": 137.09
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "SCARLET ex",
+      "category": "bustine",
+      "price_per_pack_eur": 129.56
     },
     {
       "tcg": "one_piece",

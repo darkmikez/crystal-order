@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:02:33.553644Z",
+  "generated_at": "2026-09-27T22:01:56.874398Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -26,6 +26,12 @@
       "price_per_pack_eur": 18.44
     },
     {
+      "tcg": "pokemon",
+      "expansion": "Storm Emerald",
+      "category": "bustine",
+      "price_per_pack_eur": 18.44
+    },
+    {
       "tcg": "one_piece",
       "expansion": "OP-16",
       "category": "bustine",
@@ -40,12 +46,6 @@
     {
       "tcg": "pokemon",
       "expansion": "Ninja Spinner",
-      "category": "bustine",
-      "price_per_pack_eur": 18.44
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.44
     },

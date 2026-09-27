@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T10:07:02.852254Z",
+  "generated_at": "2026-09-27T16:02:33.553644Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -98,6 +98,12 @@
       "price_per_pack_eur": 18.48
     },
     {
+      "tcg": "pokemon",
+      "expansion": "InfernoX",
+      "category": "bustine",
+      "price_per_pack_eur": 18.44
+    },
+    {
       "tcg": "dragonball",
       "expansion": "FB04",
       "category": "bustine",
@@ -108,12 +114,6 @@
       "expansion": "FB08",
       "category": "bustine",
       "price_per_pack_eur": 5.64
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "InfernoX",
-      "category": "bustine",
-      "price_per_pack_eur": 18.44
     },
     {
       "tcg": "pokemon",
@@ -140,12 +140,6 @@
       "price_per_pack_eur": 18.44
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-07",
-      "category": "bustine",
-      "price_per_pack_eur": 18.48
-    },
-    {
       "tcg": "pokemon",
       "expansion": "CYBER JUDGE",
       "category": "bustine",
@@ -166,6 +160,12 @@
     {
       "tcg": "one_piece",
       "expansion": "OP-08",
+      "category": "bustine",
+      "price_per_pack_eur": 18.48
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-07",
       "category": "bustine",
       "price_per_pack_eur": 18.48
     },
@@ -198,6 +198,12 @@
       "expansion": "VIOLET ex",
       "category": "bustine",
       "price_per_pack_eur": 31.43
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "BLACK RULER",
+      "category": "bustine",
+      "price_per_pack_eur": 30.26
     },
     {
       "tcg": "pokemon",
@@ -258,12 +264,6 @@
       "expansion": "WILD FORCE",
       "category": "bustine",
       "price_per_pack_eur": 26.85
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "BLACK RULER",
-      "category": "bustine",
-      "price_per_pack_eur": 30.26
     },
     {
       "tcg": "pokemon",

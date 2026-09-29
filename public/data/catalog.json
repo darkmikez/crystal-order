@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T22:02:23.974158Z",
+  "generated_at": "2026-09-29T04:02:28.790018Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -171,12 +171,6 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "A GLIMPSE OF THE FUTURE",
-      "category": "bustine",
-      "price_per_pack_eur": 18.53
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "NIGHT WANDERER",
       "category": "bustine",
       "price_per_pack_eur": 18.53
@@ -207,15 +201,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "CRIMSOM HAZE",
-      "category": "bustine",
-      "price_per_pack_eur": 129.04
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "STELLA MIRACLE",
       "category": "bustine",
       "price_per_pack_eur": 18.53
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "CRIMSOM HAZE",
+      "category": "bustine",
+      "price_per_pack_eur": 129.04
     },
     {
       "tcg": "one_piece",
@@ -299,7 +293,7 @@
       "tcg": "one_piece",
       "expansion": "OP-12",
       "category": "bustine",
-      "price_per_pack_eur": 27.11
+      "price_per_pack_eur": 18.57
     },
     {
       "tcg": "dragonball",

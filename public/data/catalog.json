@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:02:29.143081Z",
+  "generated_at": "2026-09-30T22:02:47.087304Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -92,16 +92,16 @@
       "price_per_pack_eur": 18.6
     },
     {
-      "tcg": "pokemon",
-      "expansion": "InfernoX",
-      "category": "bustine",
-      "price_per_pack_eur": 18.56
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-17",
       "category": "bustine",
       "price_per_pack_eur": 18.6
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "InfernoX",
+      "category": "bustine",
+      "price_per_pack_eur": 18.56
     },
     {
       "tcg": "dragonball",

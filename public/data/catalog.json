@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:03:05.613411Z",
+  "generated_at": "2026-10-01T22:03:03.312370Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -207,12 +207,6 @@
     },
     {
       "tcg": "one_piece",
-      "expansion": "EB-04",
-      "category": "bustine",
-      "price_per_pack_eur": 18.62
-    },
-    {
-      "tcg": "one_piece",
       "expansion": "OP-09",
       "category": "bustine",
       "price_per_pack_eur": 18.62
@@ -228,6 +222,12 @@
       "expansion": "SNOW HAZARD",
       "category": "bustine",
       "price_per_pack_eur": 18.58
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "EB-04",
+      "category": "bustine",
+      "price_per_pack_eur": 18.62
     },
     {
       "tcg": "one_piece",
@@ -318,6 +318,12 @@
       "expansion": "SUPERCHARGE",
       "category": "bustine",
       "price_per_pack_eur": 18.58
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "WHITE",
+      "category": "bustine",
+      "price_per_pack_eur": 31.2
     },
     {
       "tcg": "dragonball",

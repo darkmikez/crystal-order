@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:03:03.312370Z",
+  "generated_at": "2026-10-02T04:03:04.240043Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -32,6 +32,12 @@
       "price_per_pack_eur": 18.58
     },
     {
+      "tcg": "pokemon",
+      "expansion": "Storm Emerald",
+      "category": "bustine",
+      "price_per_pack_eur": 18.58
+    },
+    {
       "tcg": "dragonball",
       "expansion": "FB02",
       "category": "bustine",
@@ -45,15 +51,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "Storm Emerald",
+      "expansion": "Ninja Spinner",
       "category": "bustine",
       "price_per_pack_eur": 18.58
     },
     {
-      "tcg": "pokemon",
-      "expansion": "Ninja Spinner",
+      "tcg": "dragonball",
+      "expansion": "FB11",
       "category": "bustine",
-      "price_per_pack_eur": 18.58
+      "price_per_pack_eur": 18.62
     },
     {
       "tcg": "one_piece",
@@ -70,12 +76,6 @@
     {
       "tcg": "dragonball",
       "expansion": "FB09",
-      "category": "bustine",
-      "price_per_pack_eur": 18.62
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "FB11",
       "category": "bustine",
       "price_per_pack_eur": 18.62
     },

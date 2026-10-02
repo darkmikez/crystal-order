@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:02:14.791598Z",
+  "generated_at": "2026-10-02T22:02:33.993944Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -159,12 +159,6 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "A GLIMPSE OF THE FUTURE",
-      "category": "bustine",
-      "price_per_pack_eur": 18.72
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "SCARLET ex",
       "category": "bustine",
       "price_per_pack_eur": 131.31
@@ -174,12 +168,6 @@
       "expansion": "STELLA MIRACLE",
       "category": "bustine",
       "price_per_pack_eur": 18.72
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "VIOLET ex",
-      "category": "bustine",
-      "price_per_pack_eur": 31.91
     },
     {
       "tcg": "one_piece",
@@ -201,9 +189,21 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "A GLIMPSE OF THE FUTURE",
+      "category": "bustine",
+      "price_per_pack_eur": 18.72
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "NIGHT WANDERER",
       "category": "bustine",
       "price_per_pack_eur": 18.72
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "VIOLET ex",
+      "category": "bustine",
+      "price_per_pack_eur": 31.91
     },
     {
       "tcg": "pokemon",
@@ -224,16 +224,16 @@
       "price_per_pack_eur": 18.72
     },
     {
-      "tcg": "pokemon",
-      "expansion": "ANCIENT ROAR",
-      "category": "bustine",
-      "price_per_pack_eur": 139.04
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-06",
       "category": "bustine",
       "price_per_pack_eur": 18.76
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "ANCIENT ROAR",
+      "category": "bustine",
+      "price_per_pack_eur": 139.04
     },
     {
       "tcg": "pokemon",
@@ -249,15 +249,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "RAGING SURF",
-      "category": "bustine",
-      "price_per_pack_eur": 18.72
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "TEAM ROCKET",
       "category": "bustine",
       "price_per_pack_eur": 29.9
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "RAGING SURF",
+      "category": "bustine",
+      "price_per_pack_eur": 18.72
     },
     {
       "tcg": "pokemon",
@@ -339,12 +339,6 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "30th CELEBRATION",
-      "category": "bustine",
-      "price_per_pack_eur": 18.72
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "TERASTAL",
       "category": "bustine",
       "price_per_pack_eur": 18.72
@@ -354,6 +348,12 @@
       "expansion": "EB-02",
       "category": "bustine",
       "price_per_pack_eur": 18.76
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "30th CELEBRATION",
+      "category": "bustine",
+      "price_per_pack_eur": 18.72
     },
     {
       "tcg": "pokemon",

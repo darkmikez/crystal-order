@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:02:33.993944Z",
+  "generated_at": "2026-10-03T04:02:31.658910Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -110,16 +110,16 @@
       "price_per_pack_eur": 18.76
     },
     {
-      "tcg": "pokemon",
-      "expansion": "InfernoX",
-      "category": "bustine",
-      "price_per_pack_eur": 18.72
-    },
-    {
       "tcg": "dragonball",
       "expansion": "FB08",
       "category": "bustine",
       "price_per_pack_eur": 5.71
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "InfernoX",
+      "category": "bustine",
+      "price_per_pack_eur": 18.72
     },
     {
       "tcg": "dragonball",
@@ -315,15 +315,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "WHITE",
-      "category": "bustine",
-      "price_per_pack_eur": 31.56
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "SUPERCHARGE",
       "category": "bustine",
       "price_per_pack_eur": 18.72
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "WHITE",
+      "category": "bustine",
+      "price_per_pack_eur": 31.56
     },
     {
       "tcg": "dragonball",

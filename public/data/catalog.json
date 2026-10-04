@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T04:02:13.725346Z",
+  "generated_at": "2026-10-04T10:07:10.953141Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -24,6 +24,12 @@
       "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.72
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "WHITE",
+      "category": "bustine",
+      "price_per_pack_eur": 31.51
     },
     {
       "tcg": "one_piece",
@@ -56,14 +62,14 @@
       "price_per_pack_eur": 18.72
     },
     {
-      "tcg": "dragonball",
-      "expansion": "FB11",
+      "tcg": "one_piece",
+      "expansion": "OP-14",
       "category": "bustine",
       "price_per_pack_eur": 18.76
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-14",
+      "tcg": "dragonball",
+      "expansion": "FB11",
       "category": "bustine",
       "price_per_pack_eur": 18.76
     },
@@ -200,16 +206,16 @@
       "price_per_pack_eur": 31.91
     },
     {
-      "tcg": "pokemon",
-      "expansion": "CRIMSOM HAZE",
-      "category": "bustine",
-      "price_per_pack_eur": 130.01
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-09",
       "category": "bustine",
       "price_per_pack_eur": 18.76
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "CRIMSOM HAZE",
+      "category": "bustine",
+      "price_per_pack_eur": 130.01
     },
     {
       "tcg": "one_piece",
@@ -312,12 +318,6 @@
       "expansion": "OP-11",
       "category": "bustine",
       "price_per_pack_eur": 18.76
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "WHITE",
-      "category": "bustine",
-      "price_per_pack_eur": 31.51
     },
     {
       "tcg": "pokemon",

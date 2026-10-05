@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:02:20.356599Z",
+  "generated_at": "2026-10-05T22:02:17.816335Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -56,14 +56,14 @@
       "price_per_pack_eur": 18.76
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-14",
+      "tcg": "dragonball",
+      "expansion": "FB11",
       "category": "bustine",
       "price_per_pack_eur": 18.76
     },
     {
-      "tcg": "dragonball",
-      "expansion": "FB11",
+      "tcg": "one_piece",
+      "expansion": "OP-14",
       "category": "bustine",
       "price_per_pack_eur": 18.76
     },

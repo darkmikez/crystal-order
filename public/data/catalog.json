@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:01:50.147153Z",
+  "generated_at": "2026-10-06T22:02:13.745699Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -7,6 +7,12 @@
     }
   },
   "items": [
+    {
+      "tcg": "pokemon",
+      "expansion": "Storm Emerald",
+      "category": "bustine",
+      "price_per_pack_eur": 18.62
+    },
     {
       "tcg": "pokemon",
       "expansion": "MEGA b",
@@ -22,12 +28,6 @@
     {
       "tcg": "pokemon",
       "expansion": "MEGA s",
-      "category": "bustine",
-      "price_per_pack_eur": 18.62
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.62
     },
@@ -354,12 +354,6 @@
       "expansion": "EB-02",
       "category": "bustine",
       "price_per_pack_eur": 18.66
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "SHINY TREASURE ex",
-      "category": "bustine",
-      "price_per_pack_eur": 62.51
     },
     {
       "tcg": "pokemon",

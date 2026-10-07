@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:02:13.745699Z",
+  "generated_at": "2026-10-07T04:02:16.274259Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -33,6 +33,12 @@
     },
     {
       "tcg": "dragonball",
+      "expansion": "FB11",
+      "category": "bustine",
+      "price_per_pack_eur": 18.66
+    },
+    {
+      "tcg": "dragonball",
       "expansion": "FB02",
       "category": "bustine",
       "price_per_pack_eur": 18.66
@@ -44,6 +50,12 @@
       "price_per_pack_eur": 18.66
     },
     {
+      "tcg": "one_piece",
+      "expansion": "OP-16",
+      "category": "bustine",
+      "price_per_pack_eur": 18.66
+    },
+    {
       "tcg": "pokemon",
       "expansion": "Ninja Spinner",
       "category": "bustine",
@@ -51,19 +63,7 @@
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-16",
-      "category": "bustine",
-      "price_per_pack_eur": 18.66
-    },
-    {
-      "tcg": "one_piece",
       "expansion": "OP-14",
-      "category": "bustine",
-      "price_per_pack_eur": 18.66
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "FB11",
       "category": "bustine",
       "price_per_pack_eur": 18.66
     },
@@ -237,6 +237,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "SNOW HAZARD",
+      "category": "bustine",
+      "price_per_pack_eur": 18.62
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "WILD FORCE",
       "category": "bustine",
       "price_per_pack_eur": 21.06
@@ -252,18 +258,6 @@
       "expansion": "RAGING SURF",
       "category": "bustine",
       "price_per_pack_eur": 18.62
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "SNOW HAZARD",
-      "category": "bustine",
-      "price_per_pack_eur": 18.62
-    },
-    {
-      "tcg": "one_piece",
-      "expansion": "OP-10",
-      "category": "bustine",
-      "price_per_pack_eur": 18.66
     },
     {
       "tcg": "pokemon",
@@ -354,6 +348,12 @@
       "expansion": "EB-02",
       "category": "bustine",
       "price_per_pack_eur": 18.66
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "SHINY TREASURE ex",
+      "category": "bustine",
+      "price_per_pack_eur": 62.51
     },
     {
       "tcg": "pokemon",

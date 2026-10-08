@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:02:00.562454Z",
+  "generated_at": "2026-10-08T04:02:58.701499Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -39,13 +39,13 @@
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-15",
+      "expansion": "OP-14",
       "category": "bustine",
       "price_per_pack_eur": 18.8
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-14",
+      "expansion": "OP-15",
       "category": "bustine",
       "price_per_pack_eur": 18.8
     },
@@ -56,12 +56,6 @@
       "price_per_pack_eur": 18.8
     },
     {
-      "tcg": "dragonball",
-      "expansion": "FB11",
-      "category": "bustine",
-      "price_per_pack_eur": 18.79
-    },
-    {
       "tcg": "pokemon",
       "expansion": "Ninja Spinner",
       "category": "bustine",
@@ -69,15 +63,15 @@
     },
     {
       "tcg": "dragonball",
-      "expansion": "FB01",
+      "expansion": "FB11",
       "category": "bustine",
       "price_per_pack_eur": 18.79
     },
     {
-      "tcg": "pokemon",
-      "expansion": "Munikis",
+      "tcg": "dragonball",
+      "expansion": "FB01",
       "category": "bustine",
-      "price_per_pack_eur": 18.75
+      "price_per_pack_eur": 18.79
     },
     {
       "tcg": "dragonball",

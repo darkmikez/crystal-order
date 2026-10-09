@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:01:30.762801Z",
+  "generated_at": "2026-10-09T04:01:31.951406Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -16,6 +16,12 @@
     {
       "tcg": "pokemon",
       "expansion": "Abyss Eye",
+      "category": "bustine",
+      "price_per_pack_eur": 18.75
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "Munikis",
       "category": "bustine",
       "price_per_pack_eur": 18.75
     },
@@ -60,12 +66,6 @@
       "expansion": "OP-16",
       "category": "bustine",
       "price_per_pack_eur": 18.79
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "Munikis",
-      "category": "bustine",
-      "price_per_pack_eur": 18.75
     },
     {
       "tcg": "dragonball",

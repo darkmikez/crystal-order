@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:01:22.144990Z",
+  "generated_at": "2026-10-10T04:01:36.514903Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -312,12 +312,6 @@
       "expansion": "FB06",
       "category": "bustine",
       "price_per_pack_eur": 4.36
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "WHITE",
-      "category": "bustine",
-      "price_per_pack_eur": 31.5
     },
     {
       "tcg": "pokemon",

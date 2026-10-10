@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:01:34.499762Z",
+  "generated_at": "2026-10-10T16:01:19.908442Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -9,13 +9,13 @@
   "items": [
     {
       "tcg": "pokemon",
-      "expansion": "Abyss Eye",
+      "expansion": "MEGA b",
       "category": "bustine",
       "price_per_pack_eur": 18.72
     },
     {
       "tcg": "pokemon",
-      "expansion": "MEGA b",
+      "expansion": "Abyss Eye",
       "category": "bustine",
       "price_per_pack_eur": 18.72
     },
@@ -86,6 +86,12 @@
       "price_per_pack_eur": 18.72
     },
     {
+      "tcg": "dragonball",
+      "expansion": "FB10",
+      "category": "bustine",
+      "price_per_pack_eur": 18.76
+    },
+    {
       "tcg": "one_piece",
       "expansion": "OP-17",
       "category": "bustine",
@@ -140,6 +146,18 @@
       "price_per_pack_eur": 18.72
     },
     {
+      "tcg": "pokemon",
+      "expansion": "A GLIMPSE OF THE FUTURE",
+      "category": "bustine",
+      "price_per_pack_eur": 18.72
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "VIOLET ex",
+      "category": "bustine",
+      "price_per_pack_eur": 31.8
+    },
+    {
       "tcg": "one_piece",
       "expansion": "OP-13",
       "category": "bustine",
@@ -165,12 +183,6 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "VIOLET ex",
-      "category": "bustine",
-      "price_per_pack_eur": 31.8
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "SCARLET ex",
       "category": "bustine",
       "price_per_pack_eur": 130.76
@@ -192,12 +204,6 @@
       "expansion": "OP-07",
       "category": "bustine",
       "price_per_pack_eur": 18.76
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "A GLIMPSE OF THE FUTURE",
-      "category": "bustine",
-      "price_per_pack_eur": 18.72
     },
     {
       "tcg": "one_piece",

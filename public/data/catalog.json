@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:01:31.298848Z",
+  "generated_at": "2026-10-11T04:02:18.994138Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -69,6 +69,12 @@
     },
     {
       "tcg": "dragonball",
+      "expansion": "FB10",
+      "category": "bustine",
+      "price_per_pack_eur": 18.76
+    },
+    {
+      "tcg": "dragonball",
       "expansion": "FB01",
       "category": "bustine",
       "price_per_pack_eur": 18.76
@@ -84,12 +90,6 @@
       "expansion": "Munikis",
       "category": "bustine",
       "price_per_pack_eur": 18.72
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "FB10",
-      "category": "bustine",
-      "price_per_pack_eur": 18.76
     },
     {
       "tcg": "one_piece",
@@ -152,16 +152,16 @@
       "price_per_pack_eur": 18.72
     },
     {
-      "tcg": "pokemon",
-      "expansion": "VIOLET ex",
-      "category": "bustine",
-      "price_per_pack_eur": 31.8
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-13",
       "category": "bustine",
       "price_per_pack_eur": 18.76
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "VIOLET ex",
+      "category": "bustine",
+      "price_per_pack_eur": 31.8
     },
     {
       "tcg": "pokemon",
@@ -260,16 +260,16 @@
       "price_per_pack_eur": 29.77
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-10",
-      "category": "bustine",
-      "price_per_pack_eur": 18.76
-    },
-    {
       "tcg": "pokemon",
       "expansion": "HEAT WAVE",
       "category": "bustine",
       "price_per_pack_eur": 18.72
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-10",
+      "category": "bustine",
+      "price_per_pack_eur": 18.76
     },
     {
       "tcg": "pokemon",

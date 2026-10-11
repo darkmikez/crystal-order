@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T10:01:10.614977Z",
+  "generated_at": "2026-10-11T16:02:01.244515Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -182,6 +182,12 @@
       "price_per_pack_eur": 138.36
     },
     {
+      "tcg": "one_piece",
+      "expansion": "OP-08",
+      "category": "bustine",
+      "price_per_pack_eur": 18.76
+    },
+    {
       "tcg": "pokemon",
       "expansion": "STELLA MIRACLE",
       "category": "bustine",
@@ -195,25 +201,19 @@
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-08",
-      "category": "bustine",
-      "price_per_pack_eur": 18.76
-    },
-    {
-      "tcg": "one_piece",
       "expansion": "OP-07",
       "category": "bustine",
       "price_per_pack_eur": 18.76
     },
     {
       "tcg": "one_piece",
-      "expansion": "EB-04",
+      "expansion": "OP-09",
       "category": "bustine",
       "price_per_pack_eur": 18.76
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-09",
+      "expansion": "EB-04",
       "category": "bustine",
       "price_per_pack_eur": 18.76
     },
@@ -299,7 +299,7 @@
       "tcg": "pokemon",
       "expansion": "BLACK RULER",
       "category": "bustine",
-      "price_per_pack_eur": 35.42
+      "price_per_pack_eur": 20.66
     },
     {
       "tcg": "one_piece",

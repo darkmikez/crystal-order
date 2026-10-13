@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:01:27.833835Z",
+  "generated_at": "2026-10-13T22:01:17.160655Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -200,16 +200,16 @@
       "price_per_pack_eur": 125.23
     },
     {
-      "tcg": "pokemon",
-      "expansion": "A GLIMPSE OF THE FUTURE",
-      "category": "bustine",
-      "price_per_pack_eur": 18.75
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-09",
       "category": "bustine",
       "price_per_pack_eur": 18.79
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "A GLIMPSE OF THE FUTURE",
+      "category": "bustine",
+      "price_per_pack_eur": 18.75
     },
     {
       "tcg": "pokemon",

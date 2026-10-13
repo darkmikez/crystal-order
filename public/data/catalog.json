@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:01:30.885249Z",
+  "generated_at": "2026-10-13T04:01:46.603719Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -12,6 +12,12 @@
       "expansion": "MEGA b",
       "category": "bustine",
       "price_per_pack_eur": 18.73
+    },
+    {
+      "tcg": "dragonball",
+      "expansion": "FB10",
+      "category": "bustine",
+      "price_per_pack_eur": 18.77
     },
     {
       "tcg": "pokemon",
@@ -33,13 +39,13 @@
     },
     {
       "tcg": "dragonball",
-      "expansion": "FB10",
+      "expansion": "FB02",
       "category": "bustine",
       "price_per_pack_eur": 18.77
     },
     {
       "tcg": "dragonball",
-      "expansion": "FB02",
+      "expansion": "FB11",
       "category": "bustine",
       "price_per_pack_eur": 18.77
     },
@@ -66,12 +72,6 @@
       "expansion": "Ninja Spinner",
       "category": "bustine",
       "price_per_pack_eur": 18.73
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "FB11",
-      "category": "bustine",
-      "price_per_pack_eur": 18.77
     },
     {
       "tcg": "dragonball",
@@ -177,6 +177,12 @@
     },
     {
       "tcg": "one_piece",
+      "expansion": "OP-07",
+      "category": "bustine",
+      "price_per_pack_eur": 18.78
+    },
+    {
+      "tcg": "one_piece",
       "expansion": "OP-08",
       "category": "bustine",
       "price_per_pack_eur": 18.78
@@ -192,12 +198,6 @@
       "expansion": "STELLA MIRACLE",
       "category": "bustine",
       "price_per_pack_eur": 124.94
-    },
-    {
-      "tcg": "one_piece",
-      "expansion": "OP-07",
-      "category": "bustine",
-      "price_per_pack_eur": 18.78
     },
     {
       "tcg": "pokemon",
@@ -231,6 +231,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "PARADIGM TRIGGER",
+      "category": "bustine",
+      "price_per_pack_eur": 21.55
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "SNOW HAZARD",
       "category": "bustine",
       "price_per_pack_eur": 18.73
@@ -246,6 +252,12 @@
       "expansion": "WILD FORCE",
       "category": "bustine",
       "price_per_pack_eur": 21.2
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "PARADISE DRAGONA",
+      "category": "bustine",
+      "price_per_pack_eur": 18.73
     },
     {
       "tcg": "pokemon",
@@ -267,21 +279,9 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "PARADISE DRAGONA",
-      "category": "bustine",
-      "price_per_pack_eur": 18.73
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "NIGHT WANDERER",
       "category": "bustine",
       "price_per_pack_eur": 18.73
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "PARADIGM TRIGGER",
-      "category": "bustine",
-      "price_per_pack_eur": 21.55
     },
     {
       "tcg": "pokemon",
@@ -315,15 +315,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "SUPERCHARGE",
-      "category": "bustine",
-      "price_per_pack_eur": 18.73
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "WHITE",
       "category": "bustine",
       "price_per_pack_eur": 31.51
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "SUPERCHARGE",
+      "category": "bustine",
+      "price_per_pack_eur": 18.73
     },
     {
       "tcg": "dragonball",

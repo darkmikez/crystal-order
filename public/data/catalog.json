@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:01:38.055225Z",
+  "generated_at": "2026-10-14T22:01:43.430343Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -210,6 +210,12 @@
       "expansion": "OP-09",
       "category": "bustine",
       "price_per_pack_eur": 18.77
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "MASK OF CHANGE",
+      "category": "bustine",
+      "price_per_pack_eur": 18.97
     },
     {
       "tcg": "one_piece",

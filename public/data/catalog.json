@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:01:18.602173Z",
+  "generated_at": "2026-10-16T04:01:39.999906Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -7,6 +7,12 @@
     }
   },
   "items": [
+    {
+      "tcg": "pokemon",
+      "expansion": "Ninja Spinner",
+      "category": "bustine",
+      "price_per_pack_eur": 18.73
+    },
     {
       "tcg": "pokemon",
       "expansion": "Abyss Eye",
@@ -21,21 +27,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "Storm Emerald",
-      "category": "bustine",
-      "price_per_pack_eur": 18.73
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.73
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-16",
+      "tcg": "pokemon",
+      "expansion": "Storm Emerald",
       "category": "bustine",
-      "price_per_pack_eur": 18.78
+      "price_per_pack_eur": 18.73
     },
     {
       "tcg": "dragonball",
@@ -50,16 +50,10 @@
       "price_per_pack_eur": 18.78
     },
     {
-      "tcg": "pokemon",
-      "expansion": "Ninja Spinner",
+      "tcg": "one_piece",
+      "expansion": "OP-16",
       "category": "bustine",
-      "price_per_pack_eur": 18.73
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "FB11",
-      "category": "bustine",
-      "price_per_pack_eur": 18.77
+      "price_per_pack_eur": 18.78
     },
     {
       "tcg": "one_piece",
@@ -76,6 +70,12 @@
     {
       "tcg": "dragonball",
       "expansion": "FB10",
+      "category": "bustine",
+      "price_per_pack_eur": 18.77
+    },
+    {
+      "tcg": "dragonball",
+      "expansion": "FB11",
       "category": "bustine",
       "price_per_pack_eur": 18.77
     },
@@ -152,12 +152,6 @@
       "price_per_pack_eur": 18.78
     },
     {
-      "tcg": "pokemon",
-      "expansion": "VIOLET ex",
-      "category": "bustine",
-      "price_per_pack_eur": 31.96
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-08",
       "category": "bustine",
@@ -165,9 +159,9 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "TRIPLE BEAT",
+      "expansion": "VIOLET ex",
       "category": "bustine",
-      "price_per_pack_eur": 18.73
+      "price_per_pack_eur": 31.96
     },
     {
       "tcg": "pokemon",
@@ -189,7 +183,7 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "A GLIMPSE OF THE FUTURE",
+      "expansion": "TRIPLE BEAT",
       "category": "bustine",
       "price_per_pack_eur": 18.73
     },
@@ -198,6 +192,12 @@
       "expansion": "OP-09",
       "category": "bustine",
       "price_per_pack_eur": 18.78
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "A GLIMPSE OF THE FUTURE",
+      "category": "bustine",
+      "price_per_pack_eur": 18.73
     },
     {
       "tcg": "pokemon",

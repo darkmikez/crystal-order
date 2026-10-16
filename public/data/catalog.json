@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:01:32.663670Z",
+  "generated_at": "2026-10-16T22:01:19.423859Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -326,20 +326,14 @@
       "price_per_pack_eur": 18.65
     },
     {
-      "tcg": "dragonball",
-      "expansion": "FB07",
-      "category": "bustine",
-      "price_per_pack_eur": 14.73
-    },
-    {
       "tcg": "pokemon",
-      "expansion": "30th CELEBRATION",
+      "expansion": "BLACK",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },
     {
       "tcg": "pokemon",
-      "expansion": "BLACK",
+      "expansion": "30th CELEBRATION",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },

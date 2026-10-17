@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T22:01:19.423859Z",
+  "generated_at": "2026-10-17T04:01:38.618626Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -21,13 +21,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "Storm Emerald",
+      "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },
     {
       "tcg": "pokemon",
-      "expansion": "MEGA s",
+      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },
@@ -153,12 +153,6 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "VIOLET ex",
-      "category": "bustine",
-      "price_per_pack_eur": 31.68
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "CYBER JUDGE",
       "category": "bustine",
       "price_per_pack_eur": 138.22
@@ -174,6 +168,12 @@
       "expansion": "SCARLET ex",
       "category": "bustine",
       "price_per_pack_eur": 130.62
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "VIOLET ex",
+      "category": "bustine",
+      "price_per_pack_eur": 31.68
     },
     {
       "tcg": "one_piece",
@@ -321,19 +321,25 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "30th CELEBRATION",
+      "category": "bustine",
+      "price_per_pack_eur": 18.65
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "SUPERCHARGE",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },
     {
-      "tcg": "pokemon",
-      "expansion": "BLACK",
+      "tcg": "dragonball",
+      "expansion": "FB07",
       "category": "bustine",
-      "price_per_pack_eur": 18.65
+      "price_per_pack_eur": 14.73
     },
     {
       "tcg": "pokemon",
-      "expansion": "30th CELEBRATION",
+      "expansion": "BLACK",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:01:31.175071Z",
+  "generated_at": "2026-10-17T16:01:25.769460Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -39,12 +39,6 @@
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-15",
-      "category": "bustine",
-      "price_per_pack_eur": 18.69
-    },
-    {
-      "tcg": "one_piece",
       "expansion": "OP-16",
       "category": "bustine",
       "price_per_pack_eur": 18.69
@@ -56,16 +50,22 @@
       "price_per_pack_eur": 18.69
     },
     {
-      "tcg": "pokemon",
-      "expansion": "Ninja Spinner",
+      "tcg": "one_piece",
+      "expansion": "OP-15",
       "category": "bustine",
-      "price_per_pack_eur": 18.65
+      "price_per_pack_eur": 18.69
     },
     {
       "tcg": "dragonball",
       "expansion": "FB10",
       "category": "bustine",
       "price_per_pack_eur": 18.69
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "Ninja Spinner",
+      "category": "bustine",
+      "price_per_pack_eur": 18.65
     },
     {
       "tcg": "dragonball",
@@ -321,6 +321,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "30th CELEBRATION",
+      "category": "bustine",
+      "price_per_pack_eur": 18.65
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "SUPERCHARGE",
       "category": "bustine",
       "price_per_pack_eur": 18.65
@@ -330,12 +336,6 @@
       "expansion": "FB07",
       "category": "bustine",
       "price_per_pack_eur": 14.73
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "30th CELEBRATION",
-      "category": "bustine",
-      "price_per_pack_eur": 18.65
     },
     {
       "tcg": "pokemon",

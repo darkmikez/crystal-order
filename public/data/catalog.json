@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:01:25.769460Z",
+  "generated_at": "2026-10-17T22:01:31.364235Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -39,6 +39,12 @@
     },
     {
       "tcg": "one_piece",
+      "expansion": "OP-15",
+      "category": "bustine",
+      "price_per_pack_eur": 18.69
+    },
+    {
+      "tcg": "one_piece",
       "expansion": "OP-16",
       "category": "bustine",
       "price_per_pack_eur": 18.69
@@ -46,12 +52,6 @@
     {
       "tcg": "one_piece",
       "expansion": "OP-14",
-      "category": "bustine",
-      "price_per_pack_eur": 18.69
-    },
-    {
-      "tcg": "one_piece",
-      "expansion": "OP-15",
       "category": "bustine",
       "price_per_pack_eur": 18.69
     },
@@ -288,12 +288,6 @@
       "expansion": "SHIGOKU GEISHI",
       "category": "bustine",
       "price_per_pack_eur": 18.65
-    },
-    {
-      "tcg": "one_piece",
-      "expansion": "OP-12",
-      "category": "bustine",
-      "price_per_pack_eur": 18.69
     },
     {
       "tcg": "pokemon",

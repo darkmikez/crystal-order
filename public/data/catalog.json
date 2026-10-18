@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:01:24.131019Z",
+  "generated_at": "2026-10-18T16:01:24.335108Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -21,13 +21,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "MEGA s",
+      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },
     {
       "tcg": "pokemon",
-      "expansion": "Storm Emerald",
+      "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },
@@ -366,6 +366,12 @@
       "expansion": "151",
       "category": "bustine",
       "price_per_pack_eur": 115.29
+    },
+    {
+      "tcg": "dragonball",
+      "expansion": "SB01",
+      "category": "bustine",
+      "price_per_pack_eur": 71.61
     },
     {
       "tcg": "pokemon",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:01:41.564669Z",
+  "generated_at": "2026-10-18T10:01:24.131019Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -98,12 +98,6 @@
       "price_per_pack_eur": 18.69
     },
     {
-      "tcg": "pokemon",
-      "expansion": "InfernoX",
-      "category": "bustine",
-      "price_per_pack_eur": 18.65
-    },
-    {
       "tcg": "dragonball",
       "expansion": "FB03",
       "category": "bustine",
@@ -124,6 +118,12 @@
     {
       "tcg": "pokemon",
       "expansion": "BATTLE PARTNERS",
+      "category": "bustine",
+      "price_per_pack_eur": 18.65
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "InfernoX",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },
@@ -168,6 +168,12 @@
       "expansion": "SCARLET ex",
       "category": "bustine",
       "price_per_pack_eur": 130.6
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "STELLA MIRACLE",
+      "category": "bustine",
+      "price_per_pack_eur": 124.47
     },
     {
       "tcg": "pokemon",
@@ -222,12 +228,6 @@
       "expansion": "OP-06",
       "category": "bustine",
       "price_per_pack_eur": 24.4
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "STELLA MIRACLE",
-      "category": "bustine",
-      "price_per_pack_eur": 124.47
     },
     {
       "tcg": "pokemon",
@@ -321,13 +321,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "SUPERCHARGE",
+      "expansion": "30th CELEBRATION",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },
     {
       "tcg": "pokemon",
-      "expansion": "30th CELEBRATION",
+      "expansion": "SUPERCHARGE",
       "category": "bustine",
       "price_per_pack_eur": 18.65
     },
@@ -366,12 +366,6 @@
       "expansion": "151",
       "category": "bustine",
       "price_per_pack_eur": 115.29
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "SB01",
-      "category": "bustine",
-      "price_per_pack_eur": 71.61
     },
     {
       "tcg": "pokemon",

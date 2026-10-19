@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:01:23.359183Z",
+  "generated_at": "2026-10-19T04:01:33.169292Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -30,12 +30,6 @@
       "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.65
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "FB02",
-      "category": "bustine",
-      "price_per_pack_eur": 18.69
     },
     {
       "tcg": "dragonball",

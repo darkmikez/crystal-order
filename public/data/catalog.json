@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:01:56.871351Z",
+  "generated_at": "2026-10-19T22:01:33.025593Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -378,6 +378,12 @@
       "expansion": "McDonald's",
       "category": "bustine",
       "price_per_pack_eur": 66.36
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "BLACK BOLT FAT",
+      "category": "bustine",
+      "price_per_pack_eur": 54.93
     }
   ]
 }

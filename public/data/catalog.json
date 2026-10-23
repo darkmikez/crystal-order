@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:01:36.261878Z",
+  "generated_at": "2026-10-23T10:01:34.714817Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -21,13 +21,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "Storm Emerald",
+      "expansion": "Abyss Eye",
       "category": "bustine",
       "price_per_pack_eur": 18.79
     },
     {
       "tcg": "pokemon",
-      "expansion": "Abyss Eye",
+      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.79
     },
@@ -155,13 +155,13 @@
       "tcg": "pokemon",
       "expansion": "CYBER JUDGE",
       "category": "bustine",
-      "price_per_pack_eur": 139.64
+      "price_per_pack_eur": 139.9
     },
     {
       "tcg": "pokemon",
       "expansion": "SCARLET ex",
       "category": "bustine",
-      "price_per_pack_eur": 131.96
+      "price_per_pack_eur": 132.22
     },
     {
       "tcg": "pokemon",
@@ -191,7 +191,7 @@
       "tcg": "one_piece",
       "expansion": "OP-06",
       "category": "bustine",
-      "price_per_pack_eur": 24.51
+      "price_per_pack_eur": 24.69
     },
     {
       "tcg": "one_piece",
@@ -209,17 +209,11 @@
       "tcg": "pokemon",
       "expansion": "STELLA MIRACLE",
       "category": "bustine",
-      "price_per_pack_eur": 125.79
-    },
-    {
-      "tcg": "one_piece",
-      "expansion": "EB-04",
-      "category": "bustine",
-      "price_per_pack_eur": 18.83
+      "price_per_pack_eur": 126.03
     },
     {
       "tcg": "pokemon",
-      "expansion": "RAGING SURF",
+      "expansion": "NIGHT WANDERER",
       "category": "bustine",
       "price_per_pack_eur": 18.79
     },
@@ -227,19 +221,19 @@
       "tcg": "pokemon",
       "expansion": "ANCIENT ROAR",
       "category": "bustine",
-      "price_per_pack_eur": 139.73
+      "price_per_pack_eur": 140.01
     },
     {
       "tcg": "pokemon",
       "expansion": "MASK OF CHANGE",
       "category": "bustine",
-      "price_per_pack_eur": 19.12
+      "price_per_pack_eur": 19.15
     },
     {
-      "tcg": "pokemon",
-      "expansion": "NIGHT WANDERER",
+      "tcg": "one_piece",
+      "expansion": "EB-04",
       "category": "bustine",
-      "price_per_pack_eur": 18.79
+      "price_per_pack_eur": 18.83
     },
     {
       "tcg": "pokemon",
@@ -269,13 +263,19 @@
       "tcg": "pokemon",
       "expansion": "CRIMSOM HAZE",
       "category": "bustine",
-      "price_per_pack_eur": 130.9
+      "price_per_pack_eur": 131.14
     },
     {
       "tcg": "pokemon",
       "expansion": "PARADIGM TRIGGER",
       "category": "bustine",
-      "price_per_pack_eur": 21.7
+      "price_per_pack_eur": 21.74
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "RAGING SURF",
+      "category": "bustine",
+      "price_per_pack_eur": 18.79
     },
     {
       "tcg": "pokemon",
@@ -287,7 +287,7 @@
       "tcg": "pokemon",
       "expansion": "WILD FORCE",
       "category": "bustine",
-      "price_per_pack_eur": 21.32
+      "price_per_pack_eur": 21.37
     },
     {
       "tcg": "one_piece",
@@ -299,7 +299,7 @@
       "tcg": "pokemon",
       "expansion": "BLACK RULER",
       "category": "bustine",
-      "price_per_pack_eur": 20.85
+      "price_per_pack_eur": 20.89
     },
     {
       "tcg": "dragonball",
@@ -323,7 +323,7 @@
       "tcg": "pokemon",
       "expansion": "WHITE",
       "category": "bustine",
-      "price_per_pack_eur": 31.71
+      "price_per_pack_eur": 31.77
     },
     {
       "tcg": "dragonball",
@@ -359,13 +359,13 @@
       "tcg": "pokemon",
       "expansion": "SHINY TREASURE ex",
       "category": "bustine",
-      "price_per_pack_eur": 57.9
+      "price_per_pack_eur": 58.01
     },
     {
       "tcg": "pokemon",
       "expansion": "151",
       "category": "bustine",
-      "price_per_pack_eur": 116.49
+      "price_per_pack_eur": 116.71
     },
     {
       "tcg": "dragonball",
@@ -377,7 +377,7 @@
       "tcg": "pokemon",
       "expansion": "McDonald's",
       "category": "bustine",
-      "price_per_pack_eur": 66.96
+      "price_per_pack_eur": 67.08
     },
     {
       "tcg": "pokemon",

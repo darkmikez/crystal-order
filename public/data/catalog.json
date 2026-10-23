@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:01:26.788682Z",
+  "generated_at": "2026-10-23T04:01:36.261878Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -38,12 +38,6 @@
       "price_per_pack_eur": 18.83
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-15",
-      "category": "bustine",
-      "price_per_pack_eur": 18.83
-    },
-    {
       "tcg": "dragonball",
       "expansion": "FB09",
       "category": "bustine",
@@ -52,6 +46,12 @@
     {
       "tcg": "one_piece",
       "expansion": "OP-16",
+      "category": "bustine",
+      "price_per_pack_eur": 18.83
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-15",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },
@@ -140,16 +140,16 @@
       "price_per_pack_eur": 18.83
     },
     {
-      "tcg": "pokemon",
-      "expansion": "CLAY BURST",
-      "category": "bustine",
-      "price_per_pack_eur": 18.79
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-13",
       "category": "bustine",
       "price_per_pack_eur": 18.83
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "CLAY BURST",
+      "category": "bustine",
+      "price_per_pack_eur": 18.79
     },
     {
       "tcg": "pokemon",
@@ -219,6 +219,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "RAGING SURF",
+      "category": "bustine",
+      "price_per_pack_eur": 18.79
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "ANCIENT ROAR",
       "category": "bustine",
       "price_per_pack_eur": 139.73
@@ -244,12 +250,6 @@
     {
       "tcg": "pokemon",
       "expansion": "TEAM ROCKET",
-      "category": "bustine",
-      "price_per_pack_eur": 18.79
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "RAGING SURF",
       "category": "bustine",
       "price_per_pack_eur": 18.79
     },

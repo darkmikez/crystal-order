@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:01:34.595025Z",
+  "generated_at": "2026-10-24T22:01:33.478542Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -237,13 +237,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "PARADISE DRAGONA",
+      "expansion": "TEAM ROCKET",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },
     {
       "tcg": "pokemon",
-      "expansion": "TEAM ROCKET",
+      "expansion": "PARADISE DRAGONA",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },
@@ -366,6 +366,12 @@
       "expansion": "151",
       "category": "bustine",
       "price_per_pack_eur": 116.78
+    },
+    {
+      "tcg": "dragonball",
+      "expansion": "SB01",
+      "category": "bustine",
+      "price_per_pack_eur": 72.45
     },
     {
       "tcg": "pokemon",

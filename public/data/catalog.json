@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:01:27.733669Z",
+  "generated_at": "2026-10-25T17:01:33.005886Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -237,13 +237,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "TEAM ROCKET",
+      "expansion": "PARADISE DRAGONA",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },
     {
       "tcg": "pokemon",
-      "expansion": "PARADISE DRAGONA",
+      "expansion": "TEAM ROCKET",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },
@@ -282,12 +282,6 @@
       "expansion": "SHIGOKU GEISHI",
       "category": "bustine",
       "price_per_pack_eur": 18.83
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "WILD FORCE",
-      "category": "bustine",
-      "price_per_pack_eur": 21.37
     },
     {
       "tcg": "one_piece",
@@ -366,12 +360,6 @@
       "expansion": "151",
       "category": "bustine",
       "price_per_pack_eur": 116.78
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "SB01",
-      "category": "bustine",
-      "price_per_pack_eur": 72.45
     },
     {
       "tcg": "pokemon",

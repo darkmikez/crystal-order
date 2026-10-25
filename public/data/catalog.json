@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:01:33.478542Z",
+  "generated_at": "2026-10-25T05:01:28.589694Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -134,12 +134,6 @@
       "price_per_pack_eur": 18.88
     },
     {
-      "tcg": "pokemon",
-      "expansion": "CLAY BURST",
-      "category": "bustine",
-      "price_per_pack_eur": 18.83
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-13",
       "category": "bustine",
@@ -165,6 +159,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "SNOW HAZARD",
+      "category": "bustine",
+      "price_per_pack_eur": 18.83
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "A GLIMPSE OF THE FUTURE",
       "category": "bustine",
       "price_per_pack_eur": 18.83
@@ -174,12 +174,6 @@
       "expansion": "VIOLET ex",
       "category": "bustine",
       "price_per_pack_eur": 32.17
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "SNOW HAZARD",
-      "category": "bustine",
-      "price_per_pack_eur": 18.83
     },
     {
       "tcg": "one_piece",

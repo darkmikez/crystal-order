@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:01:33.005886Z",
+  "generated_at": "2026-10-25T23:01:33.503479Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -284,6 +284,12 @@
       "price_per_pack_eur": 18.83
     },
     {
+      "tcg": "pokemon",
+      "expansion": "WILD FORCE",
+      "category": "bustine",
+      "price_per_pack_eur": 21.37
+    },
+    {
       "tcg": "one_piece",
       "expansion": "OP-12",
       "category": "bustine",
@@ -360,6 +366,12 @@
       "expansion": "151",
       "category": "bustine",
       "price_per_pack_eur": 116.78
+    },
+    {
+      "tcg": "dragonball",
+      "expansion": "SB01",
+      "category": "bustine",
+      "price_per_pack_eur": 47.03
     },
     {
       "tcg": "pokemon",

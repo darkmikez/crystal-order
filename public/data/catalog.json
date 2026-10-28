@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:01:32.152057Z",
+  "generated_at": "2026-10-28T08:02:47+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -237,13 +237,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "PARADISE DRAGONA",
+      "expansion": "HEAT WAVE",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },
     {
       "tcg": "pokemon",
-      "expansion": "HEAT WAVE",
+      "expansion": "PARADISE DRAGONA",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },

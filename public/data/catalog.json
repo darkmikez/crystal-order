@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:01:30.772215Z",
+  "generated_at": "2026-10-28T05:01:32.152057Z",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -10,6 +10,12 @@
     {
       "tcg": "pokemon",
       "expansion": "Abyss Eye",
+      "category": "bustine",
+      "price_per_pack_eur": 18.83
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "MEGA b",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },
@@ -26,18 +32,6 @@
       "price_per_pack_eur": 18.83
     },
     {
-      "tcg": "pokemon",
-      "expansion": "MEGA b",
-      "category": "bustine",
-      "price_per_pack_eur": 18.83
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "FB02",
-      "category": "bustine",
-      "price_per_pack_eur": 18.87
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-15",
       "category": "bustine",
@@ -48,6 +42,12 @@
       "expansion": "OP-16",
       "category": "bustine",
       "price_per_pack_eur": 18.88
+    },
+    {
+      "tcg": "dragonball",
+      "expansion": "FB02",
+      "category": "bustine",
+      "price_per_pack_eur": 18.87
     },
     {
       "tcg": "dragonball",
@@ -206,12 +206,6 @@
       "price_per_pack_eur": 125.85
     },
     {
-      "tcg": "pokemon",
-      "expansion": "PARADISE DRAGONA",
-      "category": "bustine",
-      "price_per_pack_eur": 18.83
-    },
-    {
       "tcg": "one_piece",
       "expansion": "EB-04",
       "category": "bustine",
@@ -243,6 +237,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "PARADISE DRAGONA",
+      "category": "bustine",
+      "price_per_pack_eur": 18.83
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "HEAT WAVE",
       "category": "bustine",
       "price_per_pack_eur": 18.83
@@ -252,12 +252,6 @@
       "expansion": "TEAM ROCKET",
       "category": "bustine",
       "price_per_pack_eur": 18.83
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "PARADIGM TRIGGER",
-      "category": "bustine",
-      "price_per_pack_eur": 21.71
     },
     {
       "tcg": "one_piece",
@@ -270,6 +264,12 @@
       "expansion": "CRIMSOM HAZE",
       "category": "bustine",
       "price_per_pack_eur": 130.97
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "PARADIGM TRIGGER",
+      "category": "bustine",
+      "price_per_pack_eur": 21.71
     },
     {
       "tcg": "pokemon",

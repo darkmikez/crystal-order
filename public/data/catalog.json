@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:00:04+00:00",
+  "generated_at": "2026-10-29T11:00:02+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -8,14 +8,8 @@
   },
   "items": [
     {
-      "tcg": "one_piece",
-      "expansion": "OP-16",
-      "category": "bustine",
-      "price_per_pack_eur": 18.89
-    },
-    {
       "tcg": "pokemon",
-      "expansion": "Abyss Eye",
+      "expansion": "MEGA b",
       "category": "bustine",
       "price_per_pack_eur": 18.85
     },
@@ -26,14 +20,20 @@
       "price_per_pack_eur": 18.89
     },
     {
+      "tcg": "one_piece",
+      "expansion": "OP-16",
+      "category": "bustine",
+      "price_per_pack_eur": 18.89
+    },
+    {
       "tcg": "pokemon",
-      "expansion": "MEGA b",
+      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.85
     },
     {
       "tcg": "pokemon",
-      "expansion": "Storm Emerald",
+      "expansion": "Abyss Eye",
       "category": "bustine",
       "price_per_pack_eur": 18.85
     },
@@ -146,6 +146,12 @@
       "price_per_pack_eur": 18.85
     },
     {
+      "tcg": "pokemon",
+      "expansion": "SNOW HAZARD",
+      "category": "bustine",
+      "price_per_pack_eur": 18.85
+    },
+    {
       "tcg": "one_piece",
       "expansion": "OP-13",
       "category": "bustine",
@@ -156,12 +162,6 @@
       "expansion": "CYBER JUDGE",
       "category": "bustine",
       "price_per_pack_eur": 139.96
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "SNOW HAZARD",
-      "category": "bustine",
-      "price_per_pack_eur": 18.85
     },
     {
       "tcg": "pokemon",

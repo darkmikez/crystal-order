@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:00:03+00:00",
+  "generated_at": "2026-10-30T17:00:05+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -9,13 +9,13 @@
   "items": [
     {
       "tcg": "pokemon",
-      "expansion": "Storm Emerald",
+      "expansion": "Abyss Eye",
       "category": "bustine",
       "price_per_pack_eur": 18.85
     },
     {
       "tcg": "pokemon",
-      "expansion": "Abyss Eye",
+      "expansion": "MEGA b",
       "category": "bustine",
       "price_per_pack_eur": 18.85
     },
@@ -27,7 +27,7 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "MEGA b",
+      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.85
     },
@@ -146,12 +146,6 @@
       "price_per_pack_eur": 32.17
     },
     {
-      "tcg": "pokemon",
-      "expansion": "SNOW HAZARD",
-      "category": "bustine",
-      "price_per_pack_eur": 18.85
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-13",
       "category": "bustine",
@@ -161,25 +155,31 @@
       "tcg": "pokemon",
       "expansion": "CYBER JUDGE",
       "category": "bustine",
-      "price_per_pack_eur": 139.85
+      "price_per_pack_eur": 140.33
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "SNOW HAZARD",
+      "category": "bustine",
+      "price_per_pack_eur": 18.85
     },
     {
       "tcg": "pokemon",
       "expansion": "SCARLET ex",
       "category": "bustine",
-      "price_per_pack_eur": 132.16
-    },
-    {
-      "tcg": "one_piece",
-      "expansion": "OP-09",
-      "category": "bustine",
-      "price_per_pack_eur": 18.89
+      "price_per_pack_eur": 132.62
     },
     {
       "tcg": "pokemon",
       "expansion": "TRIPLE BEAT",
       "category": "bustine",
       "price_per_pack_eur": 18.85
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-09",
+      "category": "bustine",
+      "price_per_pack_eur": 18.89
     },
     {
       "tcg": "pokemon",
@@ -203,7 +203,7 @@
       "tcg": "pokemon",
       "expansion": "STELLA MIRACLE",
       "category": "bustine",
-      "price_per_pack_eur": 125.97
+      "price_per_pack_eur": 126.41
     },
     {
       "tcg": "one_piece",
@@ -215,7 +215,7 @@
       "tcg": "pokemon",
       "expansion": "MASK OF CHANGE",
       "category": "bustine",
-      "price_per_pack_eur": 19.15
+      "price_per_pack_eur": 19.2
     },
     {
       "tcg": "dragonball",
@@ -231,12 +231,6 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "ANCIENT ROAR",
-      "category": "bustine",
-      "price_per_pack_eur": 139.94
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "HEAT WAVE",
       "category": "bustine",
       "price_per_pack_eur": 18.85
@@ -249,6 +243,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "ANCIENT ROAR",
+      "category": "bustine",
+      "price_per_pack_eur": 140.44
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "TEAM ROCKET",
       "category": "bustine",
       "price_per_pack_eur": 18.85
@@ -257,25 +257,25 @@
       "tcg": "one_piece",
       "expansion": "OP-10",
       "category": "bustine",
-      "price_per_pack_eur": 30.74
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "CRIMSOM HAZE",
-      "category": "bustine",
-      "price_per_pack_eur": 131.09
+      "price_per_pack_eur": 30.96
     },
     {
       "tcg": "pokemon",
       "expansion": "PARADIGM TRIGGER",
       "category": "bustine",
-      "price_per_pack_eur": 21.73
+      "price_per_pack_eur": 21.81
     },
     {
       "tcg": "pokemon",
       "expansion": "RAGING SURF",
       "category": "bustine",
       "price_per_pack_eur": 18.85
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "CRIMSOM HAZE",
+      "category": "bustine",
+      "price_per_pack_eur": 131.54
     },
     {
       "tcg": "pokemon",
@@ -287,7 +287,7 @@
       "tcg": "pokemon",
       "expansion": "WILD FORCE",
       "category": "bustine",
-      "price_per_pack_eur": 21.37
+      "price_per_pack_eur": 21.43
     },
     {
       "tcg": "one_piece",
@@ -305,7 +305,7 @@
       "tcg": "pokemon",
       "expansion": "BLACK RULER",
       "category": "bustine",
-      "price_per_pack_eur": 20.87
+      "price_per_pack_eur": 20.94
     },
     {
       "tcg": "dragonball",
@@ -335,7 +335,7 @@
       "tcg": "pokemon",
       "expansion": "WHITE",
       "category": "bustine",
-      "price_per_pack_eur": 31.76
+      "price_per_pack_eur": 31.87
     },
     {
       "tcg": "pokemon",
@@ -359,13 +359,13 @@
       "tcg": "pokemon",
       "expansion": "SHINY TREASURE ex",
       "category": "bustine",
-      "price_per_pack_eur": 57.99
+      "price_per_pack_eur": 58.19
     },
     {
       "tcg": "pokemon",
       "expansion": "151",
       "category": "bustine",
-      "price_per_pack_eur": 116.67
+      "price_per_pack_eur": 117.07
     },
     {
       "tcg": "dragonball",
@@ -377,7 +377,7 @@
       "tcg": "pokemon",
       "expansion": "McDonald's",
       "category": "bustine",
-      "price_per_pack_eur": 67.06
+      "price_per_pack_eur": 67.29
     },
     {
       "tcg": "pokemon",

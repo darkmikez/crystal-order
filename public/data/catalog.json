@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:00:03+00:00",
+  "generated_at": "2026-10-30T11:00:03+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -32,16 +32,16 @@
       "price_per_pack_eur": 18.85
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-16",
-      "category": "bustine",
-      "price_per_pack_eur": 18.89
-    },
-    {
       "tcg": "pokemon",
       "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.85
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-16",
+      "category": "bustine",
+      "price_per_pack_eur": 18.89
     },
     {
       "tcg": "dragonball",
@@ -50,16 +50,16 @@
       "price_per_pack_eur": 18.89
     },
     {
-      "tcg": "dragonball",
-      "expansion": "FB09",
-      "category": "bustine",
-      "price_per_pack_eur": 18.89
-    },
-    {
       "tcg": "pokemon",
       "expansion": "Ninja Spinner",
       "category": "bustine",
       "price_per_pack_eur": 18.85
+    },
+    {
+      "tcg": "dragonball",
+      "expansion": "FB09",
+      "category": "bustine",
+      "price_per_pack_eur": 18.89
     },
     {
       "tcg": "dragonball",
@@ -170,16 +170,16 @@
       "price_per_pack_eur": 132.16
     },
     {
-      "tcg": "pokemon",
-      "expansion": "TRIPLE BEAT",
-      "category": "bustine",
-      "price_per_pack_eur": 18.85
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-09",
       "category": "bustine",
       "price_per_pack_eur": 18.89
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "TRIPLE BEAT",
+      "category": "bustine",
+      "price_per_pack_eur": 18.85
     },
     {
       "tcg": "pokemon",
@@ -212,16 +212,16 @@
       "price_per_pack_eur": 18.89
     },
     {
-      "tcg": "dragonball",
-      "expansion": "FB05",
-      "category": "bustine",
-      "price_per_pack_eur": 9.86
-    },
-    {
       "tcg": "pokemon",
       "expansion": "MASK OF CHANGE",
       "category": "bustine",
       "price_per_pack_eur": 19.15
+    },
+    {
+      "tcg": "dragonball",
+      "expansion": "FB05",
+      "category": "bustine",
+      "price_per_pack_eur": 9.86
     },
     {
       "tcg": "pokemon",

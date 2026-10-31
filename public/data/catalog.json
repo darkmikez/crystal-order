@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:00:01+00:00",
+  "generated_at": "2026-10-31T11:00:03+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -74,6 +74,12 @@
       "price_per_pack_eur": 18.88
     },
     {
+      "tcg": "dragonball",
+      "expansion": "FB11",
+      "category": "bustine",
+      "price_per_pack_eur": 18.88
+    },
+    {
       "tcg": "pokemon",
       "expansion": "Munikis",
       "category": "bustine",
@@ -88,12 +94,6 @@
     {
       "tcg": "one_piece",
       "expansion": "OP-17",
-      "category": "bustine",
-      "price_per_pack_eur": 18.88
-    },
-    {
-      "tcg": "dragonball",
-      "expansion": "FB11",
       "category": "bustine",
       "price_per_pack_eur": 18.88
     },

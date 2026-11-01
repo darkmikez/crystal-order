@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:00:04+00:00",
+  "generated_at": "2026-11-01T05:00:03+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -80,16 +80,16 @@
       "price_per_pack_eur": 18.88
     },
     {
-      "tcg": "pokemon",
-      "expansion": "Munikis",
-      "category": "bustine",
-      "price_per_pack_eur": 18.83
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-14",
       "category": "bustine",
       "price_per_pack_eur": 18.88
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "Munikis",
+      "category": "bustine",
+      "price_per_pack_eur": 18.83
     },
     {
       "tcg": "one_piece",
@@ -278,12 +278,6 @@
       "price_per_pack_eur": 18.83
     },
     {
-      "tcg": "pokemon",
-      "expansion": "WILD FORCE",
-      "category": "bustine",
-      "price_per_pack_eur": 21.32
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-12",
       "category": "bustine",
@@ -291,15 +285,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "CRIMSOM HAZE",
-      "category": "bustine",
-      "price_per_pack_eur": 130.87
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "30th CELEBRATION",
       "category": "bustine",
       "price_per_pack_eur": 18.83
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "CRIMSOM HAZE",
+      "category": "bustine",
+      "price_per_pack_eur": 130.87
     },
     {
       "tcg": "pokemon",
@@ -312,6 +306,12 @@
       "expansion": "OP-11",
       "category": "bustine",
       "price_per_pack_eur": 18.88
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "WILD FORCE",
+      "category": "bustine",
+      "price_per_pack_eur": 21.32
     },
     {
       "tcg": "dragonball",

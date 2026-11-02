@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:00:03+00:00",
+  "generated_at": "2026-11-02T11:00:05+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -26,16 +26,16 @@
       "price_per_pack_eur": 18.88
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-16",
-      "category": "bustine",
-      "price_per_pack_eur": 18.88
-    },
-    {
       "tcg": "pokemon",
       "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.83
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-16",
+      "category": "bustine",
+      "price_per_pack_eur": 18.88
     },
     {
       "tcg": "pokemon",
@@ -68,6 +68,12 @@
       "price_per_pack_eur": 18.88
     },
     {
+      "tcg": "one_piece",
+      "expansion": "OP-14",
+      "category": "bustine",
+      "price_per_pack_eur": 18.88
+    },
+    {
       "tcg": "dragonball",
       "expansion": "FB09",
       "category": "bustine",
@@ -75,7 +81,7 @@
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-14",
+      "expansion": "OP-17",
       "category": "bustine",
       "price_per_pack_eur": 18.88
     },
@@ -84,12 +90,6 @@
       "expansion": "Munikis",
       "category": "bustine",
       "price_per_pack_eur": 18.83
-    },
-    {
-      "tcg": "one_piece",
-      "expansion": "OP-17",
-      "category": "bustine",
-      "price_per_pack_eur": 18.88
     },
     {
       "tcg": "dragonball",
@@ -170,16 +170,16 @@
       "price_per_pack_eur": 131.93
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-09",
-      "category": "bustine",
-      "price_per_pack_eur": 18.88
-    },
-    {
       "tcg": "pokemon",
       "expansion": "TRIPLE BEAT",
       "category": "bustine",
       "price_per_pack_eur": 18.83
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-09",
+      "category": "bustine",
+      "price_per_pack_eur": 18.88
     },
     {
       "tcg": "pokemon",
@@ -206,6 +206,12 @@
       "price_per_pack_eur": 18.83
     },
     {
+      "tcg": "pokemon",
+      "expansion": "MASK OF CHANGE",
+      "category": "bustine",
+      "price_per_pack_eur": 19.11
+    },
+    {
       "tcg": "one_piece",
       "expansion": "EB-04",
       "category": "bustine",
@@ -216,12 +222,6 @@
       "expansion": "PARADISE DRAGONA",
       "category": "bustine",
       "price_per_pack_eur": 18.83
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "MASK OF CHANGE",
-      "category": "bustine",
-      "price_per_pack_eur": 19.11
     },
     {
       "tcg": "dragonball",
@@ -273,13 +273,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "SHIGOKU GEISHI",
+      "expansion": "30th CELEBRATION",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },
     {
       "tcg": "pokemon",
-      "expansion": "30th CELEBRATION",
+      "expansion": "SHIGOKU GEISHI",
       "category": "bustine",
       "price_per_pack_eur": 18.83
     },

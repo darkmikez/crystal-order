@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:00:03+00:00",
+  "generated_at": "2026-11-03T11:00:04+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -251,7 +251,7 @@
       "tcg": "pokemon",
       "expansion": "TEAM ROCKET",
       "category": "bustine",
-      "price_per_pack_eur": 18.72
+      "price_per_pack_eur": 29.9
     },
     {
       "tcg": "one_piece",

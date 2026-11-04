@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T05:00:04+00:00",
+  "generated_at": "2026-11-04T11:00:02+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -141,15 +141,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "CLAY BURST",
-      "category": "bustine",
-      "price_per_pack_eur": 18.75
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "VIOLET ex",
       "category": "bustine",
       "price_per_pack_eur": 31.88
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "CLAY BURST",
+      "category": "bustine",
+      "price_per_pack_eur": 18.75
     },
     {
       "tcg": "pokemon",
@@ -297,15 +297,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "BLACK RULER",
-      "category": "bustine",
-      "price_per_pack_eur": 20.77
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "WILD FORCE",
       "category": "bustine",
       "price_per_pack_eur": 21.26
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "BLACK RULER",
+      "category": "bustine",
+      "price_per_pack_eur": 20.77
     },
     {
       "tcg": "one_piece",

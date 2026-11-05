@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:00:02+00:00",
+  "generated_at": "2026-11-05T05:00:04+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -38,6 +38,12 @@
       "price_per_pack_eur": 18.62
     },
     {
+      "tcg": "one_piece",
+      "expansion": "OP-15",
+      "category": "bustine",
+      "price_per_pack_eur": 18.66
+    },
+    {
       "tcg": "dragonball",
       "expansion": "FB01",
       "category": "bustine",
@@ -46,12 +52,6 @@
     {
       "tcg": "dragonball",
       "expansion": "FB02",
-      "category": "bustine",
-      "price_per_pack_eur": 18.66
-    },
-    {
-      "tcg": "one_piece",
-      "expansion": "OP-15",
       "category": "bustine",
       "price_per_pack_eur": 18.66
     },
@@ -141,12 +141,6 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "VIOLET ex",
-      "category": "bustine",
-      "price_per_pack_eur": 31.64
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "CLAY BURST",
       "category": "bustine",
       "price_per_pack_eur": 18.62
@@ -180,6 +174,12 @@
       "expansion": "A GLIMPSE OF THE FUTURE",
       "category": "bustine",
       "price_per_pack_eur": 18.62
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "VIOLET ex",
+      "category": "bustine",
+      "price_per_pack_eur": 31.64
     },
     {
       "tcg": "one_piece",

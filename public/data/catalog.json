@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T05:00:01+00:00",
+  "generated_at": "2026-11-06T11:00:00+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -15,13 +15,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "MEGA s",
+      "expansion": "MEGA b",
       "category": "bustine",
       "price_per_pack_eur": 18.67
     },
     {
       "tcg": "pokemon",
-      "expansion": "MEGA b",
+      "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.67
     },
@@ -254,16 +254,16 @@
       "price_per_pack_eur": 129.7
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-10",
-      "category": "bustine",
-      "price_per_pack_eur": 30.49
-    },
-    {
       "tcg": "pokemon",
       "expansion": "TEAM ROCKET",
       "category": "bustine",
       "price_per_pack_eur": 18.67
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-10",
+      "category": "bustine",
+      "price_per_pack_eur": 30.49
     },
     {
       "tcg": "pokemon",

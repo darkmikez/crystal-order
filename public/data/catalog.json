@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:00:04+00:00",
+  "generated_at": "2026-11-06T05:00:01+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -273,12 +273,6 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "30th CELEBRATION",
-      "category": "bustine",
-      "price_per_pack_eur": 18.67
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "RAGING SURF",
       "category": "bustine",
       "price_per_pack_eur": 18.67
@@ -286,6 +280,12 @@
     {
       "tcg": "pokemon",
       "expansion": "SHIGOKU GEISHI",
+      "category": "bustine",
+      "price_per_pack_eur": 18.67
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "30th CELEBRATION",
       "category": "bustine",
       "price_per_pack_eur": 18.67
     },
@@ -311,7 +311,7 @@
       "tcg": "one_piece",
       "expansion": "OP-11",
       "category": "bustine",
-      "price_per_pack_eur": 18.71
+      "price_per_pack_eur": 21.98
     },
     {
       "tcg": "dragonball",

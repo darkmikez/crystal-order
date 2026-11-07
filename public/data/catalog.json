@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T05:00:00+00:00",
+  "generated_at": "2026-11-07T11:00:03+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -27,6 +27,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "Storm Emerald",
+      "category": "bustine",
+      "price_per_pack_eur": 18.77
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.77
@@ -36,12 +42,6 @@
       "expansion": "OP-15",
       "category": "bustine",
       "price_per_pack_eur": 18.82
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "Storm Emerald",
-      "category": "bustine",
-      "price_per_pack_eur": 18.77
     },
     {
       "tcg": "dragonball",
@@ -231,15 +231,15 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "ANCIENT ROAR",
-      "category": "bustine",
-      "price_per_pack_eur": 139.29
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "STELLA MIRACLE",
       "category": "bustine",
       "price_per_pack_eur": 125.36
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "ANCIENT ROAR",
+      "category": "bustine",
+      "price_per_pack_eur": 139.29
     },
     {
       "tcg": "pokemon",
@@ -267,6 +267,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "30th CELEBRATION",
+      "category": "bustine",
+      "price_per_pack_eur": 18.77
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "PARADIGM TRIGGER",
       "category": "bustine",
       "price_per_pack_eur": 21.63
@@ -280,12 +286,6 @@
     {
       "tcg": "pokemon",
       "expansion": "SHIGOKU GEISHI",
-      "category": "bustine",
-      "price_per_pack_eur": 18.77
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "30th CELEBRATION",
       "category": "bustine",
       "price_per_pack_eur": 18.77
     },

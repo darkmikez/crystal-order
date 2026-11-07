@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:00:01+00:00",
+  "generated_at": "2026-11-07T23:00:03+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -96,6 +96,12 @@
       "expansion": "FB11",
       "category": "bustine",
       "price_per_pack_eur": 18.82
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "STELLA MIRACLE",
+      "category": "bustine",
+      "price_per_pack_eur": 18.77
     },
     {
       "tcg": "dragonball",
@@ -220,12 +226,6 @@
     {
       "tcg": "pokemon",
       "expansion": "PARADISE DRAGONA",
-      "category": "bustine",
-      "price_per_pack_eur": 18.77
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "STELLA MIRACLE",
       "category": "bustine",
       "price_per_pack_eur": 18.77
     },

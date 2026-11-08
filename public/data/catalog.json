@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:00:03+00:00",
+  "generated_at": "2026-11-08T17:00:05+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -10,12 +10,6 @@
     {
       "tcg": "pokemon",
       "expansion": "Abyss Eye",
-      "category": "bustine",
-      "price_per_pack_eur": 18.77
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.77
     },
@@ -33,19 +27,25 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "Storm Emerald",
+      "category": "bustine",
+      "price_per_pack_eur": 18.77
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.77
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-15",
+      "expansion": "OP-17",
       "category": "bustine",
       "price_per_pack_eur": 18.82
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-17",
+      "expansion": "OP-15",
       "category": "bustine",
       "price_per_pack_eur": 18.82
     },

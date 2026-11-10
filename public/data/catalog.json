@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:00:04+00:00",
+  "generated_at": "2026-11-10T05:00:04+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -21,12 +21,6 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "Storm Emerald",
-      "category": "bustine",
-      "price_per_pack_eur": 18.75
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "MEGA b",
       "category": "bustine",
       "price_per_pack_eur": 18.75
@@ -40,6 +34,12 @@
     {
       "tcg": "pokemon",
       "expansion": "MEGA s",
+      "category": "bustine",
+      "price_per_pack_eur": 18.75
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.75
     },
@@ -225,6 +225,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "ANCIENT ROAR",
+      "category": "bustine",
+      "price_per_pack_eur": 138.97
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "PARADISE DRAGONA",
       "category": "bustine",
       "price_per_pack_eur": 18.75
@@ -234,12 +240,6 @@
       "expansion": "FB05",
       "category": "bustine",
       "price_per_pack_eur": 9.81
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "ANCIENT ROAR",
-      "category": "bustine",
-      "price_per_pack_eur": 138.97
     },
     {
       "tcg": "pokemon",

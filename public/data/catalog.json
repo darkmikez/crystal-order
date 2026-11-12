@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:00:07+00:00",
+  "generated_at": "2026-11-12T05:00:00+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -32,16 +32,16 @@
       "price_per_pack_eur": 18.82
     },
     {
-      "tcg": "pokemon",
-      "expansion": "MEGA s",
-      "category": "bustine",
-      "price_per_pack_eur": 18.78
-    },
-    {
       "tcg": "one_piece",
       "expansion": "OP-17",
       "category": "bustine",
       "price_per_pack_eur": 18.82
+    },
+    {
+      "tcg": "pokemon",
+      "expansion": "MEGA s",
+      "category": "bustine",
+      "price_per_pack_eur": 18.78
     },
     {
       "tcg": "dragonball",
@@ -183,15 +183,15 @@
     },
     {
       "tcg": "one_piece",
-      "expansion": "OP-06",
-      "category": "bustine",
-      "price_per_pack_eur": 24.47
-    },
-    {
-      "tcg": "one_piece",
       "expansion": "OP-09",
       "category": "bustine",
       "price_per_pack_eur": 18.82
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-06",
+      "category": "bustine",
+      "price_per_pack_eur": 24.47
     },
     {
       "tcg": "one_piece",
@@ -207,13 +207,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "HEAT WAVE",
+      "expansion": "STELLA MIRACLE",
       "category": "bustine",
       "price_per_pack_eur": 18.78
     },
     {
       "tcg": "pokemon",
-      "expansion": "STELLA MIRACLE",
+      "expansion": "HEAT WAVE",
       "category": "bustine",
       "price_per_pack_eur": 18.78
     },

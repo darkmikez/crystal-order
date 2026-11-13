@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:00:02+00:00",
+  "generated_at": "2026-11-13T11:00:03+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -33,13 +33,13 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "Storm Emerald",
+      "expansion": "MEGA s",
       "category": "bustine",
       "price_per_pack_eur": 18.82
     },
     {
       "tcg": "pokemon",
-      "expansion": "MEGA s",
+      "expansion": "Storm Emerald",
       "category": "bustine",
       "price_per_pack_eur": 18.82
     },
@@ -74,6 +74,12 @@
       "price_per_pack_eur": 18.82
     },
     {
+      "tcg": "pokemon",
+      "expansion": "Munikis",
+      "category": "bustine",
+      "price_per_pack_eur": 18.82
+    },
+    {
       "tcg": "dragonball",
       "expansion": "FB10",
       "category": "bustine",
@@ -84,12 +90,6 @@
       "expansion": "OP-14",
       "category": "bustine",
       "price_per_pack_eur": 18.86
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "Munikis",
-      "category": "bustine",
-      "price_per_pack_eur": 18.82
     },
     {
       "tcg": "dragonball",
@@ -171,27 +171,27 @@
     },
     {
       "tcg": "pokemon",
-      "expansion": "A GLIMPSE OF THE FUTURE",
-      "category": "bustine",
-      "price_per_pack_eur": 18.82
-    },
-    {
-      "tcg": "pokemon",
       "expansion": "VIOLET ex",
       "category": "bustine",
       "price_per_pack_eur": 31.83
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-06",
+      "tcg": "pokemon",
+      "expansion": "A GLIMPSE OF THE FUTURE",
       "category": "bustine",
-      "price_per_pack_eur": 24.38
+      "price_per_pack_eur": 18.82
     },
     {
       "tcg": "one_piece",
       "expansion": "OP-09",
       "category": "bustine",
       "price_per_pack_eur": 18.86
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-06",
+      "category": "bustine",
+      "price_per_pack_eur": 24.38
     },
     {
       "tcg": "pokemon",
@@ -285,6 +285,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "CRIMSOM HAZE",
+      "category": "bustine",
+      "price_per_pack_eur": 130.18
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "WILD FORCE",
       "category": "bustine",
       "price_per_pack_eur": 21.21
@@ -294,12 +300,6 @@
       "expansion": "OP-12",
       "category": "bustine",
       "price_per_pack_eur": 18.86
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "CRIMSOM HAZE",
-      "category": "bustine",
-      "price_per_pack_eur": 130.18
     },
     {
       "tcg": "pokemon",

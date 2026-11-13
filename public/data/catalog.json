@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:00:03+00:00",
+  "generated_at": "2026-11-13T05:00:02+00:00",
   "categories": {
     "bustine": {
       "label": "Bustine",
@@ -14,16 +14,16 @@
       "price_per_pack_eur": 18.82
     },
     {
-      "tcg": "one_piece",
-      "expansion": "OP-16",
-      "category": "bustine",
-      "price_per_pack_eur": 18.86
-    },
-    {
       "tcg": "pokemon",
       "expansion": "MEGA b",
       "category": "bustine",
       "price_per_pack_eur": 18.82
+    },
+    {
+      "tcg": "one_piece",
+      "expansion": "OP-16",
+      "category": "bustine",
+      "price_per_pack_eur": 18.86
     },
     {
       "tcg": "one_piece",
@@ -117,6 +117,12 @@
     },
     {
       "tcg": "pokemon",
+      "expansion": "CLAY BURST",
+      "category": "bustine",
+      "price_per_pack_eur": 18.82
+    },
+    {
+      "tcg": "pokemon",
       "expansion": "InfernoX",
       "category": "bustine",
       "price_per_pack_eur": 18.82
@@ -142,12 +148,6 @@
     {
       "tcg": "pokemon",
       "expansion": "SNOW HAZARD",
-      "category": "bustine",
-      "price_per_pack_eur": 18.82
-    },
-    {
-      "tcg": "pokemon",
-      "expansion": "CLAY BURST",
       "category": "bustine",
       "price_per_pack_eur": 18.82
     },
